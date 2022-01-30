@@ -1,0 +1,32 @@
+:root {
+    --violet:rgb(165, 5, 98);
+}
+.fixed-top {
+   
+    background-color: red;
+}
+.navbar-collapse i {
+    color: rgb(165, 5, 98);
+}
+.background {
+    height: 93vh;
+    background-color: burlywood;
+}
+img {
+    width: 350px;
+}
+i {
+    color: var(--violet);
+    font-size: 1.5rem;
+}
+.links a {
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    margin-right: 1rem;
+
+}
+    
